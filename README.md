@@ -22,7 +22,7 @@ Bitz is the first ePOW (Eclipse Proof-of-Work) token that anyone can mine with j
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/bitz-eclipse-installer.git
+   git clone https://github.com/hitasyurekk/bitz-eclipse-installer.git
    cd bitz-eclipse-installer
    ```
 
@@ -125,7 +125,7 @@ Bitz, herkesin sadece CPU gücüyle madencilik yapabileceği ilk ePOW (Eclipse �
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone https://github.com/yourusername/bitz-eclipse-installer.git
+   git clone https://github.com/hitasyurekk/bitz-eclipse-installer.git
    cd bitz-eclipse-installer
    ```
 
